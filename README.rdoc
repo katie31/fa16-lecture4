@@ -1,5 +1,5 @@
 == README
 
-Code from Rails Decal Fall 2016 Lecture 3
+Code from Rails Decal Fall 2016 Lecture 4
 
 
